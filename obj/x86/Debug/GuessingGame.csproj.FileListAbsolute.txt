@@ -1,0 +1,6 @@
+C:\Users\Afrisol\Desktop\POSTERS\GuessingNumber-master\bin\Debug\GuessingGame.exe
+C:\Users\Afrisol\Desktop\POSTERS\GuessingNumber-master\bin\Debug\GuessingGame.pdb
+C:\Users\Afrisol\Desktop\POSTERS\GuessingNumber-master\obj\x86\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Users\Afrisol\Desktop\POSTERS\GuessingNumber-master\obj\x86\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Afrisol\Desktop\POSTERS\GuessingNumber-master\obj\x86\Debug\GuessingGame.exe
+C:\Users\Afrisol\Desktop\POSTERS\GuessingNumber-master\obj\x86\Debug\GuessingGame.pdb
